@@ -49,9 +49,9 @@ COMMON_ARGS += --build-arg=TOOLS="$(TOOLS)"
 # extra variables
 
 PKGS_PREFIX ?= ghcr.io/siderolabs
-PKGS ?= v1.12.1
+PKGS ?= v1.12.0
 TOOLS_PREFIX ?= ghcr.io/siderolabs
-TOOLS ?= v1.12.1
+TOOLS ?= v1.12.0
 
 # targets defines all the available targets
 
